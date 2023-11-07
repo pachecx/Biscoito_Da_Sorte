@@ -14,6 +14,7 @@ O "Biscoito da Sorte" é uma simulação interativa que opera da seguinte maneir
 <li>O biscoito se abre com uma animação.
 <li>Uma frase aleatória é revelada dentro do biscoito.
 <li>O usuário pode desfrutar da mensagem ou clicar novamente para obter outra frase.
+<li>Link do Deploy:  https://pachecx.github.io/Biscoito_Da_Sorte/
 
 <br>
 <br>
